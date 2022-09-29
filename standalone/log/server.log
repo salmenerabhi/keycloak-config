@@ -1,0 +1,1 @@
+2022-09-29 10:01:57,082 WARN  [org.keycloak.events] (default task-113) type=REFRESH_TOKEN_ERROR, realmId=master, clientId=security-admin-console, userId=null, ipAddress=127.0.0.1, error=invalid_token, grant_type=refresh_token, client_auth_method=client-secret
